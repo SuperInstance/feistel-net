@@ -1,0 +1,12 @@
+[package]
+name = "feistel-net"
+version = "0.1.0"
+edition = "2021"
+description = "Feistel network cipher construction: balanced/unbalanced Feistel, key schedule, S-box design, permutation networks"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/feistel-net"
+keywords = ["feistel", "cipher", "sbox", "cryptography", "block-cipher"]
+categories = ["cryptography", "algorithms"]
+readme = "README.md"
+
+[dependencies]
